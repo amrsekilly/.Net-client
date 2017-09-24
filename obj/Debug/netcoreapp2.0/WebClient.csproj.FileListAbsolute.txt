@@ -1,0 +1,10 @@
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/bin/Debug/netcoreapp2.0/WebClient.deps.json
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/bin/Debug/netcoreapp2.0/WebClient.runtimeconfig.json
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/bin/Debug/netcoreapp2.0/WebClient.runtimeconfig.dev.json
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/bin/Debug/netcoreapp2.0/WebClient.dll
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/bin/Debug/netcoreapp2.0/WebClient.pdb
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/obj/Debug/netcoreapp2.0/WebClient.csproj.CoreCompileInputs.cache
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/obj/Debug/netcoreapp2.0/WebClient.AssemblyInfoInputs.cache
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/obj/Debug/netcoreapp2.0/WebClient.AssemblyInfo.cs
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/obj/Debug/netcoreapp2.0/WebClient.dll
+/Users/amr/workspace/WebAPI.net/Module1/WebClient/obj/Debug/netcoreapp2.0/WebClient.pdb
